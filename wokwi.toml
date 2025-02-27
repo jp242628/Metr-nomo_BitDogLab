@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/u7project.uf2'
+elf = 'build/u7project.elf'
